@@ -16,7 +16,6 @@ export const THEME = {
     ALERT: '#F87171',
 
     FOOTER: ['rgba(0,0,0,0)', 'rgba(0,0,0,0.9)'],
-    DUO: ['rgba(99,102,241,1)', 'rgba(168,85,247,1)', 'rgba(59,130,246,1)'],
     OVERLAY: 'rgba(0,0,0,0.6)',
   },
 
